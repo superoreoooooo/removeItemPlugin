@@ -1,0 +1,6 @@
+name: RemoveItem
+version: '${project.version}'
+main: org.oreoprojekt.removeitem.RemoveItem
+api-version: 1.17
+authors: [ 0reo_0 ]
+description: 15분마다 드롭된 아이템 제거하는 플러그인
